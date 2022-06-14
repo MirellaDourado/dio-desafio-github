@@ -1,2 +1,8 @@
 # Repositório de Projeto da DIO
-Trabalhando com o primeiro depositório; Desafio de projeto sobre Git/GitHub
+Este repositório trás anotações e sites relevantes durante a minha tragetória na DIO.
+Espero que possa ajudar aqueles que o acessarem ou que possa relembrar algo de útil.
+
+BOOTCAMP: Impulso JavaScript Evolution
+INÍCIO: Junho/2022
+
+

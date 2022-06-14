@@ -81,3 +81,103 @@ Como o computador reconhece padrões?
 					-classificação de características
 					
 					-classificação de dados
+### 3- Abstração/Generalização
+
+Operação intelectual que consiste em reunir, numa classe geral, um conjunto de seres ou fenômenos familiares
+
+Como classificar os dados:
+
+	- características
+	
+	- pontos essenciais
+	
+	- generalizar ˣ detalhar
+	
+### 4- Algoritmos
+
+Processo de resolução de problemas "step by step" utilizando instruções dadas
+	
+	Instruções:
+	
+		- O que precisa ser feito?
+		
+		- Qual a ordem de execução?
+		
+			*O algoritmo precisa ser entendido por humanos e máquinas*
+			
+Desenvolvimento do programa:
+
+	- Análise
+		
+		↳ estudo e definição dos dados de entrada e saída
+	
+	- Algoritmo
+	
+		↳ descreve o problema por meio de ferramentas narrativas, fluxogramas e pseudocódigos
+		
+	- Codificação
+		
+		↳ o algoritmo é codificado de acordo com a linguagem de programação escolhida
+		
+Como construir um algoritmo?
+
+	+ compreensão do problema
+	
+	+ definição dos dados de entrada
+	
+	+ definição do processamento
+	
+	+ definir dados de saída
+	
+	+ utilizar um método de construção
+	
+	+ teste e diagnóstico
+	
+Constução de algoritmos
+	+ narrativa
+	
+		↳ utilização da linguagem natural
+	
+	+ fluxograma
+		
+		↳utilização de símbolos pré-definidos
+		
+	+ psudocódigo
+		
+		↳ portugol
+
+## Lógica de Programação
+
+O que é lógica?
+	
+	↳ forma de pensamento estruturado que te auxilia em determinar o que é verdadedeiro ou não, dentro de um contexto.
+	
+	↳ organização e planejamento das instruções, assertivas, em um algortimo, a fim de viabilizar a implantação de um programa.
+	
+Técnicas de llógica de programação:
+	
+	● técnica linear
+	
+		- modelo tradicional; linear
+		
+		-não tem vínculo
+		
+		-estrutra hierarquica
+		
+		- programação de computadores
+		
+		- ordenaçao de elementos por uma única propriedade
+		
+	● técnica estruturada
+		
+		- não é linear 
+		
+		- organização, disposição e ordem dos elementos essenciais que compõem um corpo (concreto ou abstrato)
+		
+	● técnica modular
+		
+		- controlada por um conjunto de regras
+		
+		- modelo padrão:
+			
+			dados de entrada ➝ processo de transformação ➝ dados de saída
